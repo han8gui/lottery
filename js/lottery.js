@@ -1,6 +1,5 @@
 /*!
- * lottery v1.0.3
- * by blacksnail2015 2015-03-30
+ * lottery v1.0.0
  */
 /*
  * 这里对速度做一下说明：
